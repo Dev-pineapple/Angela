@@ -1,0 +1,41 @@
+body {
+  background: #680808;
+  background-image: url("./fundo da pagina.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center ; margin: 10px;
+}
+div {
+  height: 100px;
+  background-color: purple;
+  background-size: auto;
+  color: #FFD4F1;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 270px;
+  padding: 12px;
+  border: 2px solid;
+  border-radius: 12px;
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
+a {
+  text-decoration-line: none;
+  color: #FFD4F1;
+}
+.imagem {
+  padding: 50px;
+  width: 300px;
+  height: 300px;
+}
+
+img {
+  border-radius: 12px;
+  border:#FFD4F1 solid;
+  color: #FFD4F1;
+}

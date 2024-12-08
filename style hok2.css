@@ -1,0 +1,36 @@
+body {
+  background: #680808;
+  background-image: url("./fundo da pagina.png");
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center; 
+  margin: 10px;"
+      
+}
+
+a {
+  text-decoration-line: none;
+  color: #FFD4F1;
+}
+div {
+  height: auto;
+  background-color: purple;
+  color: #FFD4F1;
+  width: auto;
+  padding: 12px;
+  margin: auto;
+  margin-bottom: 20px;
+  font-size:20px;
+  border: 2px solid #FFD4F1;
+  border-radius: 12px;
+  align-items: auto;
+  height: auto;
+  
+}
+.voltar{
+  width: 150px;
+  font-size: 30px;
+  align-items: auto;
+  
+}
