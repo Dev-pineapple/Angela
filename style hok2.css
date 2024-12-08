@@ -24,13 +24,24 @@ div {
   font-size:20px;
   border: 2px solid #FFD4F1;
   border-radius: 12px;
-  align-items: auto;
+  align-items: center;
   height: auto;
   
 }
 .voltar{
-  width: 150px;
+  height: 80px;
+  background-color: purple;
+  background-size: auto;
+  color: #FFD4F1;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 270px;
+  padding: 12px;
+  border: 2px solid;
+  border-radius: 12px;
   font-size: 30px;
-  align-items: auto;
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
 }
