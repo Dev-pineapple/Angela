@@ -7,7 +7,7 @@ body {
   text-align: center ; margin: 10px;
 }
 div {
-  height: 100px;
+  height: 80px;
   background-color: purple;
   background-size: auto;
   color: #FFD4F1;
@@ -17,11 +17,11 @@ div {
   padding: 12px;
   border: 2px solid;
   border-radius: 12px;
-  font-size: 40px;
+  font-size: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100px;
+  height: 80px;
 }
 
 a {
